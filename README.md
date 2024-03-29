@@ -11,4 +11,21 @@ we have some pth, but it is too big so i have it private
 
 
 # Data Structure
+train and test
 
+each file have 
+     images
+
+
+
+
+           video001~100
+
+
+
+                     001_1.jpg~001_200.jpg   to 100_200.jpg 
+
+
+
+
+    annotation(label) : categories id, videos id, images id, annotation(but test doesn't have annotation label )
