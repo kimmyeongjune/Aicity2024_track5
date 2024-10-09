@@ -1,5 +1,5 @@
 # Aicity2024_track5
-
+we participate Aicity_2025 track5 India motorcycle helmet(w/wo) detection
 
 
 if you wanst some pth file about temporal_roi_align at aicity2024_track5_dataset
